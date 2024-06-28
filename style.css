@@ -1,0 +1,18 @@
+h1#title{
+    color:rgb(131, 3, 75);
+     width: 70%;
+}
+h2#title2{
+    color: rgb(214, 31, 243);
+    background-color: rgb(246, 244, 249);
+    border:0.1cqi solid;
+    margin:15px;
+    padding: 30px;
+    text-align: justify;
+
+}
+p#parrafo{
+    color: blueviolet;
+    
+    
+}
